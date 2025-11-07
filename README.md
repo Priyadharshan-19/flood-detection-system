@@ -1,8 +1,3 @@
-Perfect 😎 — here’s a **professional and eye-catching README.md** for your *Flood Detection & Alert System* project.
-You can directly **copy & paste** this file into your project root as `README.md`.
-
----
-
 ## 🌊 Flood Detection & Alert System
 
 A real-time **flood monitoring and alert system** built using **Flask**, **Twilio**, and **SQLite**.
@@ -122,8 +117,5 @@ http://127.0.0.1:5000/
 
 **Priya Dharshan**
 💬 “Smart automation for safer communities.”
-📧 Reach me: *[Add your email or LinkedIn link here]*
+📧 Reach me: priyadharshan802@gmail.com
 
----
-
-Would you like me to make this README include **screenshots + badges (Python, Flask, Twilio)** for a more *GitHub-pro look*?
